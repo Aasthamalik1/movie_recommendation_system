@@ -25,7 +25,7 @@ Make sure you have Python 3.10+ installed.
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/your-repo/movie-recommendation-system.git
+git clone https://github.com/Aasthamalik1/movie_recommendation_system
 cd movie-recommendation-system
 
 ### Step 2: Create & Activate Virtual Environment
